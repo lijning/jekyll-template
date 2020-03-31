@@ -1,14 +1,15 @@
 ---
-layout: post
-title: "「知乎」如何通俗地解释停机问题？"
-subtitle: "How to explain the Halting Problem?"
+ayout: post
+title: "「知乎」为什么 CSS 这么难学？"
+subtitle: "Why I dislike CSS as a programming language"
 author: "Hux"
-header-img: "img/post-bg-halting.jpg"
-header-mask: 0.3
+header-img: "img/post-bg-css.jpg"
+header-img-credit: "@WebdesignerDepot"
+header-img-credit-href: "medium.com/@WebdesignerDepot/poll-should-css-become-more-like-a-programming-language-c74eb26a4270"
+header-mask: 0.4
 tags:
-  - 知乎
-  - 计算机科学
-  - 计算理论
+  - Web
+  - CSS
 ---
 
 > 这篇文章转载自[我在知乎上的回答]( https://www.zhihu.com/question/20081359/answer/275107187)
