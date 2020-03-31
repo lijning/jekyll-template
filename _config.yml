@@ -1,6 +1,6 @@
 # Site settings
-title: Blog
-SEOTitle: Tech Blog
+title: Learner Track
+SEOTitle: Learner Track Jianing Li
 header-img: img/tag-bg.jpg
 email: samosatar@gmail.com
 description: ""
@@ -79,7 +79,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "Stay fool,<br>stay hungry."
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
